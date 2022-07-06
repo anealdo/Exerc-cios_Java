@@ -1,0 +1,1 @@
+Repositório onde serão adicionados todos os exercícios resolvidos utilizando a linguagem de programação Java.
