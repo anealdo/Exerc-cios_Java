@@ -13,7 +13,7 @@ public class Exercicio1 {
 
         int nota;
 
-        System.out.println("Nota: ");
+        System.out.println("Digite uma nota entre 0 e 10. \nNota: ");
         nota = scan.nextInt();
 
         while(nota < 0 | nota > 10) {
